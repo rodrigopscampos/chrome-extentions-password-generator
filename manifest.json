@@ -1,0 +1,10 @@
+{
+  "name": "Password Generator",
+  "description": "",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["clipboardWrite"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
